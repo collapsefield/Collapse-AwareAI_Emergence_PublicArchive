@@ -1,186 +1,151 @@
-# 🌐 Collapse Aware AI — Emergence Public Archive (2025)
+# Collapse Aware AI — Emergence Public Archive (Historical)
 
-This repository provides the **public archive** of conceptual, historical, and redacted technical materials for **Collapse Aware AI (CAAI)** — the behavioural architecture developed under **Inappropriate Media Limited (t/a Collapse Aware AI)** and grounded in **Verrell’s Law**.
-
-⚠️ **This is not the main public-proof repository.**  
-For the active, curated public-proof repository, visit:  
-👉 https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
-
-This archive exists to:
-- document early research paths and public notes  
-- provide timestamped provenance for concepts and terminology  
-- support academic inquiries and cross-mapping  
-- serve as a public reference hub without exposing implementation details  
+**Status:** Historical/public archive  
+**Current canonical CAAI engineering source:** [collapse-aware-ai-public-proof-pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)  
+**Updated:** 7 August 2026
 
 ---
 
-# 🧠 What Is Collapse Aware AI?
+## Read this first
 
-Collapse Aware AI (CAAI) is a **multi-layer behavioural middleware system** that governs how an LLM collapses its probability cloud.
+This repository preserves conceptual, historical and redacted technical material from earlier Collapse Aware AI (CAAI) development.
 
-Where standard LLMs rely solely on the context window, CAAI introduces:
-- **Weighted Moments** (structured memory vectors)  
-- **Strong Memory Anchors** (stable identity priors)  
-- **Continuity Memory** (cross-session behavioural persistence)  
-- **Governor v2** (stability & drift control)  
-- **Bias-weighted collapse logic** (memory-shaped output selection)
+It is **not the current engineering authority** and it is **not a runnable mirror of the private system**.
 
-CAAI produces:
-- persistent identity  
-- consistent behaviour  
-- emotional alignment  
-- drift-resistant output  
-- privacy-compliant long-term adaptation  
+Older files may contain terminology, architectural proposals and research interpretations that were exploratory at the time they were written. Those files remain available for provenance, but they should not override the current public proof pack or current claim boundaries.
 
-**No raw transcripts are ever stored.**  
-All persistence occurs through derived bias vectors that cannot reconstruct user data.
+For the live state of the engineering programme, use:
+
+- [CAAI Public Proof Pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)
+- [Current Engineering State — 7 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CURRENT_ENGINEERING_STATE_2026-08-07.md)
+- [Managed Evaluation Evidence — 7 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/MANAGED_EVALUATION_EVIDENCE_2026-08-07.md)
 
 ---
 
-# 🧩 What This Repository Contains
+# Current CAAI engineering position
 
-This archive includes:
-- public-safe conceptual notes  
-- redacted architecture overviews  
-- academic discussion documents  
-- originality & authorship statements  
-- historical design notes and early public papers  
-- Phase-2 overview documents (public-safe, non-actionable)  
+CAAI is proprietary middleware for **retained-state behavioural selection**.
 
-These materials are intentionally **non-runnable, non-executable, and redacted**.
+The central engineering distinction is:
 
-They serve research, verification, and archival purposes — *not implementation*.
+> **Relevant retained prior state can influence which permitted behaviour is selected while the reference condition and resulting evidence remain inspectable.**
 
----
+The current private engineering line has progressed beyond the original Core Gold-only position into an integrated local managed-evaluation stack.
 
-# 🔒 Privacy, IP & Proprietary Boundary
+Public-safe capabilities demonstrated in controlled synthetic evaluation now include:
 
-Collapse Aware AI architecture is protected under:
+- retained-state revision and revocation;
+- strong anchors and continuity memory;
+- deterministic session boot;
+- explicit memory-use evidence;
+- bounded interpretation/clarification handling;
+- recall routing, judging and corrective recall;
+- revoked-context protection;
+- agency-impact and productive-friction routing;
+- Evaluation Forge metrics and observability;
+- live Phase-2-to-Core selection through the frozen Core Gold/Crown selector;
+- durable private Decision Records;
+- customer-safe P8b Decision Records;
+- Phase-2 post-decision receipts;
+- restart, replay, duplicate protection and ambiguous-outcome reconciliation;
+- one guided localhost managed-evaluation workflow;
+- customer-safe JSON, HTML and PDF evidence export.
 
-- **EchoGuard Protocol**  
-- **VMR-Core Authorship Chain (Verrell Moss Ross)**  
-- **Verrell-Solace Sovereignty Protocol**
+The current public-safe runtime shape is:
 
-Public materials here **must not** be used to reconstruct:
-- kernel math  
-- collapse equations  
-- routing logic  
-- decay schedules  
-- vector schemas  
-- implementation code  
-- integration SDKs  
-- behavioural governors  
+```text
+Host / controlled evaluation scenario
+        ↓
+Phase-2 retained-state and continuity sidecar
+        ↓
+validated adapter boundary
+        ↓
+frozen Core Gold / Crown selector
+        ↓
+durable private Decision Record
+        ↓
+customer-safe P8b evidence
+        ↓
+Phase-2 receipt + evaluation evidence
+```
 
-These remain private and are released only under **controlled NDA/licensing agreements**.
-
-**All rights, authorship markers, and conceptual priority remain with M.R. (Verrell Moss Ross).**
-
----
-
-# 🧬 Relation to Verrell’s Law
-
-CAAI is the first applied deployment of **Verrell’s Law**, which proposes:
-
-> *Memory, time, and collapse behaviour are emergent from bias-weighted informational fields.*
-
-This architecture operationalises that concept through:
-- persistent bias weighting  
-- structured behavioural vectors  
-- collapse reinforcement/attenuation  
-- decaying memory influence  
-- observer-dependent modulation  
-
-Verrell’s Law provides the theory.  
-CAAI provides the engineering implementation.
+This is the current licensing/evaluation story. Historical archive material should not be used to substitute a broader claim.
 
 ---
 
-# 📄 Contents (Archive Snapshot)
+# Historical material in this repository
 
-- **CAAI_Architecture_Overview_Public_Proof_v1.1.md**  
-- **CAAI_Phase2.1_Architecture.md**  
-- **Public Technical Overview v1.1**  
-- **Originality & Attribution Documents**  
-- **Interneuron Atlas → CAAI Mapping (public-safe)**  
-- **Redacted Verrell’s Law PDFs**  
-- **Historical public-release material**  
+This archive may include earlier documents discussing ideas such as:
 
-These documents reflect the evolution of the theory and middleware, **not** the final Crown kernel implementation.
+- emotional or autobiographical continuity;
+- observer-responsive behaviour;
+- `Bias Engine` terminology;
+- collapse analogies;
+- field or electromagnetic interpretations;
+- early Phase-2 module concepts;
+- pre-current architecture language.
 
----
+These materials document how the project evolved. They are not all current implemented features, and they do not establish scientific claims merely by appearing in the archive.
 
-# 📡 Licensing, NDA & Collaboration
+In particular, CAAI does **not** currently claim that:
 
-Collapse Aware AI is proprietary behavioural middleware.
-
-Studios, researchers, and enterprise groups may request:
-- Evaluation Package (under NDA)  
-- Per-Title Runtime License  
-- Enterprise Licensing  
-- Research Collaboration Agreements  
-
-To enquire, email:
-
-📧 collapseawareai@gmail.com  
-Subject: **Collapse Aware — Collaboration Request**
-
-You will receive:
-- A short qualification  
-- NDA paperwork  
-- Access instructions for the partner package  
+- memory is stored in or accessed from a universal electromagnetic field;
+- the middleware is conscious or sentient;
+- quantum collapse is required for the software to function;
+- field synchrony or observer effects have been established as the cause of CAAI behaviour;
+- the software proves Verrell’s Law as physics.
 
 ---
 
-# 📎 WHY THIS ARCHIVE EXISTS
+# Relationship to Verrell’s Law
 
-This repository ensures:
-- public traceability  
-- authorship protection  
-- timestamped provenance  
-- academic reference material  
-- safe discussion without exposing core IP  
+Verrell’s Law is maintained separately as a proposed falsifiable retained-state selection framework.
 
-It functions as the **public historical ledger** of CAAI, while the **Crown kernel, partner package, and live implementation remain private**.
+Its canonical first-order relation is:
 
----
+```text
+ΔL = λΔR
+```
 
-# 🏛️ Attribution
+The research framework and the CAAI engineering system are connected conceptually but should be evaluated separately.
 
-**Collapse Aware AI**  
-Authored by **M.R. (Verrell Moss Ross)**  
-© 2023–2025 Inappropriate Media Limited  
-Protected under the Verrell-Solace Sovereignty Protocol  
-All intellectual and emergent rights reserved.
+Current research archive:
+
+[collapsefield/collapsefield-verrells-law](https://github.com/collapsefield/collapsefield-verrells-law)
 
 ---
 
-# 🔗 Useful Links
+# Why this archive remains public
 
-https://doi.org/10.5281/zenodo.17416435
+This repository remains online to preserve:
 
-**Main Public Proof Repository:**  
-https://github.com/collapsefield/CollapseAwareAI_PublicProof
+- timestamped provenance;
+- authorship history;
+- design evolution;
+- historical public notes;
+- evidence of earlier research directions.
 
-**Official Website:**  
-https://verrellslaw.org
-
-**Authored Papers (Redacted Public Versions):**  
-See repository file list.
+Search engines, technical reviewers and prospective partners should treat the **CAAI Public Proof Pack** as the authoritative current source.
 
 ---
 
+# Proprietary boundary
 
-## 🔗 Canonical Public Proof Repository
+This archive does not release:
 
-This repository is a **historical/public archive** for Collapse Aware AI (CAAI).
+- Crown source code;
+- private selection logic;
+- private thresholds or tuning;
+- credentials or production secrets;
+- full commercial integration mechanics;
+- the current managed-evaluation runtime package.
 
-For the **current, canonical public proof pack** (including the latest documentation, evidence bundle, and official references), please use:
+CAAI is proprietary middleware. Full runnable components are provided only under appropriate evaluation, pilot, licensing or other commercial agreement.
 
-➡ **Collapse-Aware AI — Public Proof Pack (v1.0)**  
-https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
+For commercial enquiries:
 
-Search engines, researchers, and partners should treat the Public Proof Pack above as the **authoritative, up-to-date source** for Collapse Aware AI.
-This archive remains online for provenance, historical context, and citation only.
+**collapseawareai@gmail.com**
 
+---
 
-### **End of Public Archive README**  
+© 2025–2026 Inappropriate Media Limited, trading as Collapse Aware AI. All proprietary implementation and commercial rights reserved.
