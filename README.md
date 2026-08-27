@@ -2,7 +2,7 @@
 
 **Status:** Historical/public archive  
 **Current canonical CAAI engineering source:** [collapse-aware-ai-public-proof-pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)  
-**Updated:** 7 August 2026
+**Updated:** 27 August 2026
 
 ---
 
@@ -14,59 +14,54 @@ It is **not the current engineering authority** and it is **not a runnable mirro
 
 Older files may contain terminology, architectural proposals and research interpretations that were exploratory at the time they were written. Those files remain available for provenance, but they should not override the current public proof pack or current claim boundaries.
 
+The 2025 public overview remains preserved as a historical document. A current successor note is now available here:
+
+- [Collapse Aware AI — Public Overview 2026](collapse_aware_ai_public_overview_2026.md)
+
 For the live state of the engineering programme, use:
 
 - [CAAI Public Proof Pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)
-- [Current Engineering State — 7 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CURRENT_ENGINEERING_STATE_2026-08-07.md)
-- [Managed Evaluation Evidence — 7 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/MANAGED_EVALUATION_EVIDENCE_2026-08-07.md)
+- [CAAI Public Overview 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CAAI_PUBLIC_OVERVIEW_2026.md)
+- [Current Engineering State — 27 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CURRENT_ENGINEERING_STATE_2026-08-27.md)
 
 ---
 
 # Current CAAI engineering position
 
-CAAI is proprietary middleware for **retained-state behavioural selection**.
+CAAI is proprietary middleware for **governed retained-state behavioural selection**.
 
 The central engineering distinction is:
 
-> **Relevant retained prior state can influence which permitted behaviour is selected while the reference condition and resulting evidence remain inspectable.**
+> **Retained history is eligible evidence, not automatic authority.**
 
-The current private engineering line has progressed beyond the original Core Gold-only position into an integrated local managed-evaluation stack.
+The current programme has two distinct layers:
 
-Public-safe capabilities demonstrated in controlled synthetic evaluation now include:
+### Core Gold Build
 
-- retained-state revision and revocation;
-- strong anchors and continuity memory;
-- deterministic session boot;
-- explicit memory-use evidence;
-- bounded interpretation/clarification handling;
-- recall routing, judging and corrective recall;
-- revoked-context protection;
-- agency-impact and productive-friction routing;
-- Evaluation Forge metrics and observability;
-- live Phase-2-to-Core selection through the frozen Core Gold/Crown selector;
-- durable private Decision Records;
-- customer-safe P8b Decision Records;
-- Phase-2 post-decision receipts;
-- restart, replay, duplicate protection and ambiguous-outcome reconciliation;
-- one guided localhost managed-evaluation workflow;
-- customer-safe JSON, HTML and PDF evidence export.
+The frozen commercial selector foundation. Public-safe accepted capabilities in the integrated lineage include host-supplied permitted candidate selection, reference/governed retained-state conditions, persistence/restart, deterministic replay in tested conditions, revision/revocation, durable decision evidence and managed-evaluation packaging.
 
-The current public-safe runtime shape is:
+### Evolution 2
+
+The richer continuity engineering branch. Current accepted engineering checkpoints include structured continuity interpretation, bounded hybrid retrieval, Open Loops/Reopen Semantics, Interaction Fit, suppression/proactive controls, Confidence/Clarification, Contradiction/Change Surfacing, record-only Outcomes, Agent Self-History, bounded behavioural signals, Session Observation foundation, Engineering Tuning and a restart-safe local Engineer Model with microphone speech-to-text input.
+
+Evolution 2 remains an **Engineering build rather than a finished Production release**.
+
+The current public-safe runtime idea is:
 
 ```text
-Host / controlled evaluation scenario
+Host / application
         ↓
-Phase-2 retained-state and continuity sidecar
+current event/state + permitted behaviours
         ↓
-validated adapter boundary
+retained-state continuity / lifecycle / retrieval
         ↓
-frozen Core Gold / Crown selector
+fit / confidence / suppression / candidate construction
         ↓
-durable private Decision Record
+clean current-task/reference path competes with history-conditioned alternatives
         ↓
-customer-safe P8b evidence
+governed final selection
         ↓
-Phase-2 receipt + evaluation evidence
+decision / outcome / evidence lineage
 ```
 
 This is the current licensing/evaluation story. Historical archive material should not be used to substitute a broader claim.
@@ -101,13 +96,7 @@ In particular, CAAI does **not** currently claim that:
 
 Verrell’s Law is maintained separately as a proposed falsifiable retained-state selection framework.
 
-Its canonical first-order relation is:
-
-```text
-ΔL = λΔR
-```
-
-The research framework and the CAAI engineering system are connected conceptually but should be evaluated separately.
+The research framework and the CAAI engineering system are connected historically but should be evaluated separately.
 
 Current research archive:
 
@@ -133,12 +122,12 @@ Search engines, technical reviewers and prospective partners should treat the **
 
 This archive does not release:
 
-- Crown source code;
+- Crown/Core source code;
 - private selection logic;
 - private thresholds or tuning;
 - credentials or production secrets;
 - full commercial integration mechanics;
-- the current managed-evaluation runtime package.
+- current private runtime packages.
 
 CAAI is proprietary middleware. Full runnable components are provided only under appropriate evaluation, pilot, licensing or other commercial agreement.
 
