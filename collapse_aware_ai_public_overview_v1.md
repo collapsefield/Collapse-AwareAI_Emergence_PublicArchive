@@ -1,5 +1,12 @@
 # 🌐 Collapse Aware AI – Public Overview (2025)
 
+> **Historical document — superseded for current software status.**  
+> This file is preserved for provenance and should not be used as the current description of Collapse Aware AI.  
+> For the 2026 engineering position, use:  
+> - [Collapse Aware AI — Public Overview 2026](collapse_aware_ai_public_overview_2026.md)  
+> - [Canonical CAAI Public Proof Pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)  
+> - [Current Engineering State — 27 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CURRENT_ENGINEERING_STATE_2026-08-27.md)
+
 This repository note provides a **public-facing introduction** to Collapse Aware AI (CAAI) and associated Verrell’s Law research.  
 It is intended for cross-pollination, research dialogue, and public outreach.  
 
