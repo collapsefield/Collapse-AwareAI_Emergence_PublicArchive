@@ -133,7 +133,7 @@ CAAI is proprietary middleware. Full runnable components are provided only under
 
 For commercial enquiries:
 
-**collapseawareai@gmail.com**
+[hello@verrellslaw.org](mailto:hello@verrellslaw.org)
 
 ---
 
